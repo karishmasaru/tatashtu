@@ -1,3 +1,3 @@
-Hii
-i m Himanshu
-i m doing working in frontend 
+HELLO EVERYONE
+My name is Himanshu
+i m working with TathaAstu orginazation as developer
